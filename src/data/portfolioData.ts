@@ -54,7 +54,7 @@ export const PROFILE = {
   heroLead:
     'Portofolio ini menampilkan pengalaman magang, organisasi, prestasi, serta keterampilan saya dalam bidang akuntansi, administrasi, manajemen, dan keuangan.',
   lead: 'Lulusan Sarjana Akuntansi (S.Akun.) UIN KHAS Jember dengan kompetensi di bidang akuntansi, administrasi perkantoran, dan tata kelola keuangan. Berpengalaman magang sebagai staf administrasi di DPRD Kabupaten Situbondo, memimpin 15 pengurus di SEMA FEBI, mengelola anggaran organisasi, serta tersertifikasi kompetensi nasional IAI, BNSP Kehumasan, dan Islamic Accounting.',
-  pdfPath: '/assets/aistudio/portofolio_10f79a8e.pdf',
+  pdfPath: '/assets/dokumen/portofolio-abdul-wafi.pdf',
   heroPortraitCutout: {
     id: 'hero-sakun-portrait',
     src: '/assets/hero/portrait_wafi.png',
